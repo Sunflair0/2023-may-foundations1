@@ -1,13 +1,26 @@
-/* body {
-	 background-color: beige; 
-} */
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Open+Sans:wght@400;700&display=swap');
+
+html {
+	font-family: 'Open Sans', sans-serif;
+	font-size: x-large;
+}
+
+
+body {
+	/* background-color: beige;  */
+	margin: 0;
+}
+
 
 nav {
 	background-color: blue;
 	display: flex;
 	justify-content: space-between;
+	padding: .25em;
 }
 
 a {
 	color: cyan;
+	text-decoration: none;
 }
