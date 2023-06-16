@@ -4,7 +4,6 @@ html {
 }
 
 body {
-	/* background-color: beige; */
 	margin: 0;
 }
 
@@ -13,7 +12,6 @@ nav {
 	display: flex;
 	justify-content: space-around;
 	padding: .25em;
-
 }
 
 a {
